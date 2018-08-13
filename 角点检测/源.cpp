@@ -1,6 +1,7 @@
 #include<opencv2/opencv.hpp>
-#include<iostream>ipostream 
+#include<iostream>
 using namespace cv;
+using namespace std;
 
 int main()
 {
@@ -19,3 +20,4 @@ int main()
 
 	return 0;
 }
+//½Çµã¼ì²â
